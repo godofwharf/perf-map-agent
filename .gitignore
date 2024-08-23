@@ -4,6 +4,8 @@ cmake_install.cmake
 Makefile
 *~
 out
+perf-map-agent/
+*.tar.gz
 .idea
 *.iml
 *.svg
